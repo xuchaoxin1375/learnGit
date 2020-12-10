@@ -2,7 +2,6 @@ gggit isssss a dissssstributed versssssion control sssssyssssstem.
 it issssss free sssssoftware dissssstributed under the gggPLsss free sssssoftware dissssstributed under the gggPL
 s复制的过程你无法知道自己到底复制了多少内容，知道粘贴后才明白复制的内容是什么，可视模式可以解决这个问题，可视模式会在你移动光标时就高亮显示需要复制的文本
 50w的内容。要进入可视模式，将光标移动到开始复制的位置，然后按下v键，你会注意到光标所在位置的文本已经
-:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu:set nu被高亮显示。下一步，移动光标来覆盖希望复制的文本，高亮显示会覆盖所有你移动的行文本，然后按下y键进行复制，寄存器中已经有了要复制的文本，将光标移动到希望放置文本的位置，使用p键来粘贴，这样就完成了复制粘贴操作。复制的过程你无法知道自己到底复制了多少内容，知道粘贴后才明白复制的内容是什么，可视模式可以解决这个问题，可视模式会在你移动光标时就高亮显示需要复制的文本的内容。要进入可视模式，将光标移动到开始复制的位置，然后按下v键，你会注意到光标所在位置的文本已经被高亮显示。下一步，移动光标来覆盖希望复制的文本，高亮显示会覆盖所有你移动的行文本，然后按下y键进行复制，寄存器中已经有了要复制的文本，将光标移动到希望放置文本的位置，使用p键来粘贴，这样就完成了复制粘贴操作。sss free sssssoftware dissssstributed under the gggPL
 ssssIgnorance is bliss; temporarily suppressing log messages. For more permanence, please configure `vim.debug.silent`.free sssssoftware dissssstributed under the gggPlljjjkjl
 sss free sssssoftware dissssstributed under the gggPLhis is a file for testing the function read another file .
 sss free sssssoftware dissssstributed under the gggPLhis is a file for testing the function read another file .
