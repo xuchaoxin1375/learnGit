@@ -10,10 +10,7 @@ hel
 track the diff again!
 
 test the new branch "dev".
-<<<<<<< HEAD
 it's nice to use a switch -c command to create and turn to the new 
 Creating a new branch is quick and simple.
 
 
-=======
->>>>>>> feature1
