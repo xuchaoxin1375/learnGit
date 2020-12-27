@@ -1,0 +1,4 @@
+this is a file for testing the function read another file .
+helelp
+lsjf
+

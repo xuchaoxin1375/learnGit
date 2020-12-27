@@ -1,0 +1,6 @@
+[submodule "dirsearch"]
+	path = dirsearch
+	url = ./dirsearch/
+[submodule "learnGitSkills"]
+	path = learnGitSkills
+	url = ./learnGitSkills/
