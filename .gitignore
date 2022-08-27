@@ -1,0 +1,7 @@
+symbolink/
+test/*
+!/test/*.json
+testEndSlash/
+testF/
+noSlash
+toAdd
