@@ -1,0 +1,7 @@
+# git ignore all files and directories in the dir
+#  use `/*` instead of `*` (the later will match . and .. so that the subdirectories and files will not be retrack agagin)
+/*
+
+# but git include the  special dir
+!includeDir/
+!.gitignore

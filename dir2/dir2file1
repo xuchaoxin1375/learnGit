@@ -1,0 +1,4 @@
+# git ignore all files and directories in the dir
+*
+# but git include the  special dir
+!includeDir
